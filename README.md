@@ -25,3 +25,29 @@ The topics that will be covered in this video:
 0311 Saving Changes for Later (git stash)
 
 0312 Resetting Files or Your Workspace (git reset)
+
+## Repository Operations
+
+0401 Creating a Branch
+
+0402 Sharing Your Branch With Others
+
+0403 Merging Git Branches
+
+0404 Resolving Merge Conflicts
+
+0405 Removing Git Branches
+
+0406 Creating New Repositories
+
+0407 Adding Remote Repositories
+
+0408 Tracking Remote Repositories
+
+0409 Git Commit History
+
+0410 Rewriting History (Rebasing)
+
+0411 Creating Tags (git tag)
+
+0412 Using Git Tags (using git checkout)
