@@ -28,6 +28,8 @@ If you'd like to experiment a bit with public pull requests, try this out:
 
 This is another test to save changes for later
 
+When I do this, this is about branching
+
 3)  Submit a pull request to have your name / account added to the 'master' project.
 
 #just experimenting wiht a pull request. I hope it works! Thanks, enjoying the course.
