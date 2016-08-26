@@ -1,0 +1,21 @@
+.main{
+  font-family: Arial;
+  font-weight: bold;
+}
+
+h1{
+	margin-left:15px;
+}
+
+.topic{
+	margin-left: 20px;
+	margin-top: 5px;
+}
+
+.subtopic{
+	margin-left: 30px;
+}
+
+.subtopic:before{
+	content: "> ";
+}
