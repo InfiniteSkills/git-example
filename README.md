@@ -26,6 +26,5 @@ My GitHub user account: chad-thompson
 
 It will also be a way that you can start a conversation with me if you'd like.  I'd love to know if you find the course useful.
 
-Hi Chad,
-I'm finding the course very useful so far. I like having a GUI available while learning the CLI at the same time. So far you have woven those two together in a great way. Thank you.
-Gene
+Been there, done that.
+
